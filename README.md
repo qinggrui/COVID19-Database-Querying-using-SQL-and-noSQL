@@ -1,1 +1,1 @@
-# Qing Rui's Database Query project using SQL and noSQL (JSON)
+# Database Query project using SQL and noSQL (JSON)
